@@ -6,7 +6,7 @@ def josephus_problem(people, skip):
         idx = (idx + skip - 1) % len(circle)
         circle.pop(idx)
 
-    print(*circle)
+    print(*circle, sep=", ")
 
 
 josephus_problem(42, 3)
