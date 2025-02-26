@@ -1,0 +1,2 @@
+def fs():
+    return
