@@ -1,0 +1,2 @@
+def nc():
+    return
