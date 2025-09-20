@@ -1,0 +1,2 @@
+def rd():
+    return
